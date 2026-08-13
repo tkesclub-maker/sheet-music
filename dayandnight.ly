@@ -12,8 +12,10 @@
   \new ChordNames {
     \chordmode {
       \key g \major
-      g1 | c1/g | g1 | c1/g |
-      c1 | d1/c | b1:m | e1:m |
+      g1  c1/g | g1  c1/g |g1  c1/g | d |   c1  d1/c | b1  e1:m |a1:m c/d|g
+
+r1
+      g1 c/d| g g/b| c g/b|a:m a:m/g|c/d d| g g/f| c/e c:m/ees|g/d c/d|g
     }
   }
   
