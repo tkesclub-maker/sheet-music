@@ -44,7 +44,7 @@ melodyPart = {
   e' d' d' a'4. r8 a'~ |a' a' a' a'16 c''~c''8 a' c'' a' | c'' c'' c'' c'' e'' d''~d'' d''~ | d''4. g'8 e'' d'' c''d'' | \break
 
   % --- 副歌 1 ---
-  e''8 g'' d'' e'' e'' g'' d'' e'' | e'' d'' d'' e'' f'' f'' e'' d'' | c'' e'' a'' c'' c'' e'' a'' c'' | c'' b' b' a' g' f' e' c' | \break
+  e''8 g' d'' e''~e'' g' d'' e''~| e'' d'' d'' e'' f''  e'' d'' c'' | c'' e' a' c''~c'' e' a' c'' | b' b'4 e''8 g'' e'' c'' b' | \break
   a'8 f'' f'' f'' r g' f' e' | e' c'' c'' r f' e' c' c' | f' d'' d'' d'' r d'' c'' d'' | e'' d'' c'' e'' e'' d'' d'' c'' | \break
 
   % --- 副歌 2 ---
