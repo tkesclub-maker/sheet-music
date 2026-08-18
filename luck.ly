@@ -41,7 +41,7 @@ melodyPart = {
 
   % --- 導歌 (Pre-Chorus) ---
   a'8 a' a' a' a' e'' d'' d''~ | d''2 d''8 c''  b' a'| g' g' g' e' g' d''~d'' c''~| c''4~c''8 c'' c'' g' g' c' | \break
-  e' d' d' a'4. r8 a' | r8 a' a' a' a' a' c'' c'' | c'' c'' c'' c'' c'' c'' d'' d'' | d''2. g'8 a' | \break
+  e' d' d' a'4. r8 a'~ |a' a' a' a'16 c''~c''8 a' c'' a' | c'' c'' c'' c'' e'' d''~d'' d''~ | d''4. g'8 a' | \break
 
   % --- 副歌 1 ---
   e''8 g'' d'' e'' e'' g'' d'' e'' | e'' d'' d'' e'' f'' f'' e'' d'' | c'' e'' a'' c'' c'' e'' a'' c'' | c'' b' b' a' g' f' e' c' | \break
