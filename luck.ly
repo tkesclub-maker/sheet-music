@@ -45,14 +45,13 @@ melodyPart = {
 
   % --- 副歌 1 ---
   e''8 g' d'' e''~e'' g' d'' e''~| e'' d'' d'' e'' f''  e'' d'' c'' | c'' e' a' c''~c'' e' a' c'' | b' b'4 e''8 g'' e'' c'' b' | \break
-  a'8 f'' f'' f'' r g' f' e' | e' c'' c'' r f' e' c' c' | f' d'' d'' d'' r d'' c'' d'' | e'' d'' c'' e'' e'' d'' d'' c'' | \break
+  a'8 f'' f''4.  g''8 f'' e'' | g' e'' e''4.  f''8 e'' c''  | fis' d'' d''4~ d''4.  c''8  | e''4 d''8 c'' e''4  d''8 c'' | \break
 
   % --- 副歌 2 ---
-  e''8 g'' d'' e'' e'' g'' d'' e'' | e'' d'' d'' e'' f'' f'' e'' d'' | c'' e'' a'' c'' c'' e'' a'' c'' | c'' b' b' a' g' f' e' c' | \break
-  a'8 f'' f'' f'' r g' f' e' | e' c'' c'' c'' r f' e' c' | f' d'' d'' d'' ~ d''2 | r8 e'' c'' c'' e'' d'' d'' c'' | c''1 \bar "|."
-}
-
-\score {
+  e''8 g' d'' e''~e'' g' d'' e''~| e'' d'' d'' e'' f''  e'' d'' c'' | c'' e' a' c''~c'' e' a' c'' | b' b'4 e''8 g'' e'' c'' b' | \break
+  a'8 f'' f''4.  g''8 f'' e'' | g' e'' e''4.  f''8 e'' c''  | fis' d'' d''2.  | r8 e''8 c''8 c'' e''4  d''8 c'' |c''1 \bar "||" \break
+  }
+  \score {
   <<
     \new ChordNames { \chordsPart }
     \new Staff { \melodyPart }
